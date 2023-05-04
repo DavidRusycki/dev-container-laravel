@@ -1,5 +1,5 @@
-# dev-container-laravel
-Configuração para subir um dev container php permitindo instalar o laravel.
+# dev-container-php
+Configuração para subir um dev container php.
 
 ## Requisitos:
 
